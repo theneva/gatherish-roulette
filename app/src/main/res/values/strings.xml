@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gatherish Roulette</string>
+    <string name="tutorial">Please allow watching notifications by going to Settings, &quot;Sound &amp; notification&quot;, and then &quot;Notification Access&quot; and toggling &quot;Roulette service&quot;.</string>
+</resources>
