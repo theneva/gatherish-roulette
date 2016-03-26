@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Gatherish Roulette</string>
-    <string name="tutorial">Please allow watching notifications by going to Settings, &quot;Sound &amp; notification&quot;, and then &quot;Notification Access&quot; and toggling &quot;Roulette service&quot;.</string>
+    <string name="not_running">NOT RUNNING. Please allow watching notifications by going to Settings, Sound &amp; notification, and then Notification Access and toggling Roulette service ON.</string>
+    <string name="service_status">Service status (BETA)</string>
+    <string name="running">RUNNING! WOO!</string>
+    <string name="demo_sound">Demo sound!</string>
+    <string name="update_button_text">Update service status</string>
+    <string name="app_description">Do you feel lucky? This app listens for notifications and pulls the trigger on a (MAX VOLUME) gun. Occasionally, you get hit. What\'s life without some risk?</string>
 </resources>

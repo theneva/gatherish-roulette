@@ -38,7 +38,7 @@ public class RouletteService extends NotificationListenerService {
 
         Log.d("roulette", "caught notification!");
 
-        boolean shouldPlay = new Random().nextInt(100) > TRIGGER_PERCENTAGE;
+        boolean shouldPlay = new Random().nextInt(100) < TRIGGER_PERCENTAGE;
 
         if (shouldPlay) {
             Log.d("roulette", "PLAYING NOTIFICATION SOUND YO!");
